@@ -32,6 +32,6 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wolfykey&show_icons=true&theme=dracula" />
 </details>
 
-[linkedin]: www.linkedin.com/in/vlad-vovk
+[linkedin]: https://www.linkedin.com/in/vladyslav-vovk-374431152/
 [instagram]: https://www.instagram.com/dev.vovk/
 [spd]: https://spd-ukraine.com/
