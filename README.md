@@ -23,9 +23,14 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfykey&langs_count=8&layout=compact&theme=dracula)
+<details>
+  <summary>:zap: Statistics:</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfykey&show_icons=true&theme=dracula)
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfykey&langs_count=8&layout=compact&theme=dracula" />
+    <br />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wolfykey&show_icons=true&theme=dracula" />
+</details>
 
 [linkedin]: www.linkedin.com/in/vlad-vovk
 [instagram]: https://www.instagram.com/dev.vovk/
