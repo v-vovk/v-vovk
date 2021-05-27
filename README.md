@@ -1,4 +1,6 @@
-<h2> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />, I'm Vlad from <img src="https://image.flaticon.com/icons/png/512/330/330540.png" width="28" /> </h2>
+<h2> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> </h2>
+
+### I'm Vlad from <img src="https://image.flaticon.com/icons/png/512/330/330540.png" width="28" />
 
 ![](https://komarev.com/ghpvc/?username=wolfykey&color=brightgreen&style=flat)
 
