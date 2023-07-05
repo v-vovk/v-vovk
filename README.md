@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-vovk&label=Profile%20views&color=0e75b6&style=flat" alt="v-vovk" /> </p>
 
-- 🔭 I’m currently working on [Simplr AI](https://www.simplr.ai/)
+- 🔭 I’m currently working on [Simplr AI](https://www.simplr.ai/) project
 
 - 🌱 I’m currently learning **Go Lang**
 
