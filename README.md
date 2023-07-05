@@ -1,36 +1,24 @@
-<h2> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Vlad from <img src="https://image.flaticon.com/icons/png/512/330/330540.png" width="28" /> </h2>
+<h1 align="center">Hi 👋, I'm Vladyslav Vovk</h1>
+<h3 align="center">I'm a passionate software engineer, primarily working with Node.js and React, while eagerly immersing myself in the world of Go Lang</h3>
 
-![](https://komarev.com/ghpvc/?username=wolfykey&color=brightgreen&style=flat)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=v-vovk&label=Profile%20views&color=0e75b6&style=flat" alt="v-vovk" /> </p>
 
-## I'm a JavaScript Software Engineer at  [MEV][mev]
+- 🔭 I’m currently working on [Simplr AI](https://www.simplr.ai/)
 
-- 💪 I like to learn React, Vue and JS/TS
-- 🎉 I love to play guitar and bass guitar
+- 🌱 I’m currently learning **Go Lang**
 
-### Connect with me:
+- 📄 Know about my experiences [https://www.linkedin.com/in/vladyslav-vovk-374431152/](https://www.linkedin.com/in/vladyslav-vovk-374431152/)
 
-[<img align="left" alt="VladVovk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vladyslav-vovk-374431152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vladyslav-vovk-374431152" height="30" width="40" /></a>
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Languages and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-vovk&show_icons=true&locale=en&layout=compact" alt="v-vovk" /></p>
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v-vovk&show_icons=true&locale=en" alt="v-vovk" /></p>
 
-<br />
-<br />
-
-<details>
-  <summary>:zap: Statistics:</summary>
-
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfykey&langs_count=8&layout=compact&theme=dracula" />
-    <br />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wolfykey&show_icons=true&theme=dracula" />
-</details>
-
-[linkedin]: https://www.linkedin.com/in/vladyslav-vovk-374431152/
-[instagram]: https://www.instagram.com/dev.vovk/
-[mev]: https://mev.com/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-vovk&" alt="v-vovk" /></p>
